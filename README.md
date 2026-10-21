@@ -1,6 +1,6 @@
 # Inside GPT-2
 
-A simplified, interactive walk through how a transformer picks the next word, built for ISYS 490 (AI for Data-Driven Decision Making) at Duquesne University.
+A simplified, interactive walk through how a transformer picks the next word, built for ISYS 490 (AI for Data-Driven Decision Making).
 
 Students pick a sentence and follow it through five steps that match the course slides:
 
